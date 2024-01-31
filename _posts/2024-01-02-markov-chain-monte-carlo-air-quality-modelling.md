@@ -2,7 +2,7 @@
 layout: post
 title: MCMC air quality simulation
 image: "/posts/MCMC-AQS.png"
-tags: [Python, Air Quality, Marko Chain, Monte Carlo Simulation, Time Series]
+tags: [Python, Air Quality, Markov Chain, Monte Carlo Simulation, Time Series]
 ---
 
 # My first project
