@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coffee & Python
+title: MCMC air quality simulation
 image: "/posts/coffee_python.jpg"
 tags: [Python, Coffee]
 ---
