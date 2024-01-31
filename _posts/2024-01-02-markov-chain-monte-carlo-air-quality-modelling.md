@@ -1,8 +1,8 @@
 ---
 layout: post
 title: MCMC air quality simulation
-image: "/posts/coffee_python.jpg"
-tags: [Python, Coffee]
+image: "/posts/MCMC-AQS.png"
+tags: [Python, Air Quality, Marko Chain, Monte Carlo Simulation, Time Series]
 ---
 
 # My first project
